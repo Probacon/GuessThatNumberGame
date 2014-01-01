@@ -1,4 +1,4 @@
-GuessThatNumberGame
+Guess That Number Game
 ===================
 
-Just a guess the number game.
+Just a guess the number game. Enjoy.
